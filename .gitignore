@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+OtterLocal.app/
+*.xcodeproj
+.DS_Store
